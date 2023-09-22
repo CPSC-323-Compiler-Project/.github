@@ -1,6 +1,6 @@
 # CPSC323 Projects - Fall 2023: Rat23F Language
 
-Welcome to our organization's repository for CPSC323 projects. This semester, we are delving into the intricacies of a specially designed language, Rat23F, to understand the foundational concepts of compilers and programming languages.
+Welcome to our group's repository for CPSC323 projects. This semester, we are delving into the intricacies of a specially designed language, Rat23F, to understand the foundational concepts of compilers and programming languages.
 
 ## 📚 Overview of Rat23F
 Rat23F is a simplistic and intuitive language, designed with a short grammar and clear semantics, making it an ideal candidate for learning and experimenting. It is an imperative programming language, and every program in Rat23F consists of a sequence of functions followed by the "main body" where the program executes.
