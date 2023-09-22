@@ -1,4 +1,3 @@
-```
 # CPSC323 Projects - Fall 2023: Rat23F Language
 
 Welcome to our organization's repository for CPSC323 projects. This semester, we are delving into the intricacies of a specially designed language, Rat23F, to understand the foundational concepts of compilers and programming languages.
@@ -49,4 +48,3 @@ while (low <= high)
 - Detailed specifications, rules, and guidelines for Rat23F and each project are provided in the respective project folders.
 
 Feel free to explore the repository and delve into the fascinating world of Rat23F!
-```
